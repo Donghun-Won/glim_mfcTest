@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128340FC-7D30-4E23-A2F6-417252687E30}|mfcTest\\mfcTest.vcxproj|E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTest.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{128340FC-7D30-4E23-A2F6-417252687E30}|mfcTest\\mfcTest.vcxproj|solutionrelative:mfcTest\\mfcTest.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128340FC-7D30-4E23-A2F6-417252687E30}|mfcTest\\mfcTest.vcxproj|E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTestDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128340FC-7D30-4E23-A2F6-417252687E30}|mfcTest\\mfcTest.vcxproj|solutionrelative:mfcTest\\mfcTestDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128340FC-7D30-4E23-A2F6-417252687E30}|mfcTest\\mfcTest.vcxproj|E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTestDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128340FC-7D30-4E23-A2F6-417252687E30}|mfcTest\\mfcTest.vcxproj|solutionrelative:mfcTest\\mfcTestDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mfcTestDlg.h",
+              "DocumentMoniker": "E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTestDlg.h",
+              "RelativeDocumentMoniker": "mfcTest\\mfcTestDlg.h",
+              "ToolTip": "E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTestDlg.h",
+              "RelativeToolTip": "mfcTest\\mfcTestDlg.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T09:14:51.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mfcTestDlg.cpp",
+              "DocumentMoniker": "E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTestDlg.cpp",
+              "RelativeDocumentMoniker": "mfcTest\\mfcTestDlg.cpp",
+              "ToolTip": "E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTestDlg.cpp",
+              "RelativeToolTip": "mfcTest\\mfcTestDlg.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T09:13:46.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mfcTest.rc - IDD_MFCTEST_DIALOG - Dialog",
+              "DocumentMoniker": "E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTest.rc",
+              "RelativeDocumentMoniker": "mfcTest\\mfcTest.rc",
+              "ToolTip": "E:\\(\uC8FC)\uADF8\uB9BC\\mfcTest\\mfcTest\\mfcTest.rc - IDD_MFCTEST_DIALOG - Dialog",
+              "RelativeToolTip": "mfcTest\\mfcTest.rc - IDD_MFCTEST_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-12T09:02:27.163Z",
+              "EditorCaption": " - IDD_MFCTEST_DIALOG - Dialog"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
