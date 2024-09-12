@@ -1,0 +1,17 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(int n, int k) {
+    int answer = 0;
+    
+    const int lamb_skewers_price = 12000;
+    const int beverage_price = 2000;
+    
+    int beverage_service = n / 10;
+    
+    answer = lamb_skewers_price * n + beverage_price * (k - beverage_service);
+    
+    return answer;
+}
